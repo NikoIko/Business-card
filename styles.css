@@ -8,6 +8,7 @@ body {
     box-shadow: 8px 4px #802392;
     animation-name: boxshadow;
     animation-duration: 1s;
+    border-radius: 10px;
 }
 
 .card {
@@ -23,6 +24,7 @@ body {
     animation-duration: 5s;
     animation-name: backgroundcolor;
     animation-iteration-count: 100;
+    border-radius: 10px;
 }
 
 h3:hover, h4:hover, p:hover {
